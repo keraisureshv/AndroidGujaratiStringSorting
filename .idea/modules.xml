@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidGujaratiStringSorting.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidGujaratiStringSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidGujaratiStringSorting.iml" filepath="$PROJECT_DIR$/AndroidGujaratiStringSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
